@@ -25,7 +25,7 @@
 
       <h1>Assignment 7: Form Validation with jQuery and PHP</h1>
 
-      <form action="index.php" method="post">
+      <form action="a7.php" method="post">
 
         <label for="email">  Please enter your email address:
 
